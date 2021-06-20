@@ -1,4 +1,4 @@
-# About InfoCRUD-
+# About InfoCRUD web app
  A web app created with motive to store the basic information regarding Employees of a large firm, where it turns difficult to know how many employees are available/active at a given time for a particular task without proper storage of information of each and its also a requirement that the information must be changed quickly if needed, to avoid wastage of time. The app aims to fulfill all these specifications. It stores basic information such as Name, Email, Gender and active status of a user. By getting this information, it becomes easy to contact employees who are active at that time and management team can contact them directly through their Email. The management team uses app to **C**reate new employees information, **R**ead and get information of a particular user, **U**pdate any users information, and **D**elete the information of any user if they wish to. 
  
 ### Techstacks used - 
